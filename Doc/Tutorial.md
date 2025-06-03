@@ -11,7 +11,7 @@
 --> press left right key, view comment, write comment, rent car
 
 ##Rent Car
--->  show PayPal, paid with Bank Card
+-->  show payPal, paid with Bank Card
 
 ##Waiting Animation
 --> order place animation play (finish will go personal)
